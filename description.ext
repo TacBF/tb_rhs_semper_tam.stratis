@@ -1,0 +1,12 @@
+#define TB_loadingScreen_imagePath "tb_loadingScreen.jpg"
+
+onLoadName="Semper Tam";
+overviewPicture = "tb_loadingScreen.jpg";
+author="MrTimn";
+onLoadMission="Advance and Secure: USMC Air Assault vs Russian Marines Air Assault | Marines doing what they do best! Which nation will come out on top?";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
